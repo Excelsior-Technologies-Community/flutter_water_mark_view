@@ -1,0 +1,4 @@
+enum WatermarkMode {
+  single,
+  tiled,
+}

@@ -1,0 +1,4 @@
+enum WatermarkType {
+  text,
+  image,
+}
